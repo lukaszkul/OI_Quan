@@ -364,4 +364,5 @@ class Broadcaster {
   }
 }
 
+const broadcaster_initialized = true;
 // ENDREGION: BROADCASTING

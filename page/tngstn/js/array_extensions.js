@@ -77,3 +77,5 @@ Array.prototype.putOrMerge = function (item, keyKey, valueKey) {
     this.put(item, valueKey);
   }
 };
+
+const array_extensions_initialized = true;

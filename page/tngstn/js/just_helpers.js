@@ -107,4 +107,5 @@ class Matcher {
   }
 }
 
+const just_helpers_initialized = true;
 // ENDREGION: JUST HELPERS

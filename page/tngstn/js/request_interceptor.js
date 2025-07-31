@@ -292,4 +292,5 @@ class RequestHandler {
   }
 }
 
+const request_interceptor_initialized = true;
 // ENDREGION: REQUESTS INTERCEPT
